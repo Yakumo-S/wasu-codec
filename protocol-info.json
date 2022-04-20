@@ -1,0 +1,26 @@
+[
+  {
+    "protocolName": "某温度传感器",
+    "provider": "com.wasu.profile.impl.Ws_623c0775c2dc427d0480ab5f",
+    "example": {
+      "decode": {
+        "APPdata": "fgFiX56aADoAQAEAZQgIYhSQUReZKWkBuxcCAAQUAgAPAgEDCwEPJAFkbAL81m0CAApuAgBIbwIAAXAKiYYRISEgETUjUnEECbus0RKvfg=="
+      },
+      "encode": {
+      }
+    },
+    "version": "1.0.0"
+  },
+  {
+    "protocolName": "某sos报警器",
+    "provider": "com.wasu.profile.impl.xxx_xxxxx",
+    "example": {
+      "decode": {
+        "APPdata": "xxxxxxx=="
+      },
+      "encode": {
+      }
+    },
+    "version": "1.0.1"
+  }
+]
